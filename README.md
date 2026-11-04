@@ -11,4 +11,11 @@ https://www.figma.com/design/BhItuSALjiOFDr1491mMz4/Untitled?t=tdiVBeGY6ZNyq1sq-
 https://www.figma.com/design/Ujqr49gMCBn8iAROske2Yx/index?node-id=0-1&t=lNopwjzzVwwZCwQW-1
 ผลงานออกแบบนิตยสาร
 https://drive.google.com/file/d/1TucmNuxCEn_9SK__2JXjv6jIor_4qx5M/view?usp=sharing
+ผลการออกแบบเว็บไซต์วิเคราะห์บุคลิกภาพ
+https://www.figma.com/design/tN9SDgnUA9TzruERIhJ1XQ/UI-Prototype---G10?node-id=0-1&t=kJHVcP9glV1fq1mg-1
+เว็บไซต์จริง
+https://career-plum-mu.vercel.app/
+ผลงานรีดีไซน์ตู้คีออส
+https://www.figma.com/design/HU1SFBiRYBNY2KrGPUD31T/redesign?node-id=0-1&p=f&t=yaSjMTnDU6jFnCuz-0
+
 
