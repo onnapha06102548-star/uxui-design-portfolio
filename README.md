@@ -31,7 +31,7 @@
 
 | 🎵 **Music App Redesign** | 🍗 **KFC App Redesign** |
 | :---: | :---: |
-| Modern dark-mode music streaming player focusing on smooth gesture control and rich visual aesthetics. <br><br>👉 **[View in Figma](https://www.figma.com/design/MzuCrd7A7HH0X8M3Stf0lB/%E0%B8%87%E0%B8%B2%E0%B8%9F%E0%B8%97%E0%B8%B5%E0%B9%88-3-%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%AB%E0%B8%99%E0%B9%8%E0%B8%88%E0%B8%AD?node-id=0-1&t=tdiVBeGY6ZNyq1sq-1)** | Streamlined food ordering user journey, minimizing steps from menu selection to checkout. <br><br>👉 **[View in Figma](https://www.figma.com/design/BhItuSALjiOFDr1491mMz4/Untitled?t=tdiVBeGY6ZNyq1sq-1)** |
+| Modern dark-mode music streaming player focusing on smooth gesture control and rich visual aesthetics. <br><br>👉 **[View in Figma]([https://www.figma.com/design/MzuCrd7A7HH0X8M3Stf0lB/%E0%B8%87%E0%B8%B2%E0%B8%9F%E0%B8%97%E0%B8%B5%E0%B9%88-3-%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%AB%E0%B8%99%E0%B9%8%E0%B8%88%E0%B8%AD?node-id=0-1&t=tdiVBeGY6ZNyq1sq-1](https://www.figma.com/design/MzuCrd7A7HH0X8M3Stf0lB/%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88-3-%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%88%E0%B8%AD?node-id=0-1&t=lmxIJk8FJgjUtbWY-1))** | Streamlined food ordering user journey, minimizing steps from menu selection to checkout. <br><br>👉 **[View in Figma](https://www.figma.com/design/BhItuSALjiOFDr1491mMz4/Untitled?t=tdiVBeGY6ZNyq1sq-1)** |
 
 | 🏢 **Building Kiosk Interface** | ✈️ **Trip & Travel Planning UI** |
 | :---: | :---: |
