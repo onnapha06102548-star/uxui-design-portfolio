@@ -29,9 +29,9 @@
 
 ## 🎨 CURATED UX/UI DESIGN LAB
 
-| 🎵 **Music App Redesign** | 🍗 **KFC App Redesign** |
+| 🎵 **Music App Redesign (งานที่ 3)** | 🍗 **KFC App Redesign** |
 | :---: | :---: |
-| Modern dark-mode music streaming player focusing on smooth gesture control and rich visual aesthetics. <br><br>👉 **[View in Figma](https://www.figma.com/design/MzuCrd7A7HH0X8M3Stf0lB/%E0%B8%87%E0%B8%B2%E0%B8%9F%E0%B8%97%E0%B8%B5%E0%B9%88-3-%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%AB%E0%B8%99%E0%B9%8%E0%B8%88%E0%B8%AD?node-id=0-1&t=tdiVBeGY6ZNyq1sq-1)** | Streamlined food ordering user journey, minimizing steps from menu selection to checkout. <br><br>👉 **[View in Figma](https://www.figma.com/design/MzuCrd7A7HH0X8M3Stf0lB/%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88-3-%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%88%E0%B8%AD?node-id=0-1&t=lmxIJk8FJgjUtbWY-1)** |
+| Modern dark-mode music streaming player focusing on smooth gesture control and rich visual aesthetics. <br><br>👉 **[View in Figma](https://www.figma.com/design/MzuCrd7A7HH0X8M3Stf0lB/%E0%B8%87%E0%B8%B2%E0%B8%9F%E0%B8%97%E0%B8%B5%E0%B9%88-3-%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%AB%E0%B8%99%E0%B9%8%E0%B8%88%E0%B8%AD?node-id=0-1&t=lmxIJk8FJgjUtbWY-1)** | Streamlined food ordering user journey, minimizing steps from menu selection to checkout. <br><br>👉 **[View in Figma](https://www.figma.com/design/BhItuSALjiOFDr1491mMz4/Untitled?t=tdiVBeGY6ZNyq1sq-1)** |
 
 | 🏢 **Building Kiosk Interface** | ✈️ **Trip & Travel Planning UI** |
 | :---: | :---: |
@@ -39,7 +39,7 @@
 
 | 📱 **Responsive Multi-Device UI** | 🎬 **Cinema & Movie Program** |
 | :---: | :---: |
-| Fluid grid and flexible component adaptation across desktop, tablet, and mobile viewports. <br><br>👉 **[View in Figma](https://www.figma.com/design/Jo78Q1zbUuGqLJpGCuQiFM/%E0%B8%87%E0%B8%B2%E0%B8%9F%E0%B8%97%E0%B8%B5%E0%B9%882-Responsive-design?t=tdiVBeGY6ZNyq1sq-1)** | Movie schedule interface equipped with smart filter categories and seat seating layouts. <br><br>👉 **[View in Figma](https://www.figma.com/design/Ujqr49gMCBn8iAROske2Yx/index?node-id=0-1&t=lNopwjzzVwwZCwQW-1)** |
+| Fluid grid and flexible component adaptation across desktop, tablet, and mobile viewports. <br><br>👉 **[View in Figma](https://www.figma.com/design/Jo78Q1zbUuGqLJpGCuQiFM/%E0%B8%87%E0%B8%B2%E0%B8%9F%E0%B8%97%E0%B8%B5%E0%B9%882-Responsive-design?t=tdiVBeGY6ZNyq1sq-1)** | Movie schedule interface equipped with smart filter categories and seat layouts. <br><br>👉 **[View in Figma](https://www.figma.com/design/Ujqr49gMCBn8iAROske2Yx/index?node-id=0-1&t=lNopwjzzVwwZCwQW-1)** |
 
 <details>
 <summary><b>📂 Additional Works (Forms & Publications)</b></summary>
