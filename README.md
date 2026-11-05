@@ -94,10 +94,6 @@
 
 ### 🤝 LET'S BUILD SOMETHING AWESOME TOGETHER
 
-[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com)
-[![Portfolio](https://img.shields.io/badge/Live-Portfolio-black?style=for-the-badge&logo=vercel)](https://career-plum-mu.vercel.app/)
 
-</div>
----
 
 ## 🛠 TECH STACK & DESIGN TOOLKIT
